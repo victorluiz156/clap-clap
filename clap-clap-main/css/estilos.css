@@ -8,7 +8,7 @@
 
 body {
   align-items: center;
-  background: linear-gradient(45deg, #a7cfdf 0%,#23538a 100%);
+  background: linear-gradient(45deg, #000000 0%,#1e84d0 100%);
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -75,28 +75,28 @@ h1 {
 
 .tecla_clap{
   background-image: url("../images/arigato.jpeg");
-  background-size: 150%;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .tecla_tim{
   background-image: url("../images/neto\ querido.jpeg");
-  background-size: 150%;
+  background-size: 190%;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .tecla_puff{
   background-image: url("../images/pouso.jpeg");
-  background-size: 150%;
+  background-size: 195%;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .tecla_splash{
   background-image: url("../images/estoro.gif");
-  background-size: 150%;
+  background-size: 200%;
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -110,14 +110,14 @@ h1 {
 
 .tecla_psh{
   background-image: url("../images/cafe.jpeg");
-  background-size: 150%;
+  background-size: 110%;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .tecla_tic{
   background-image: url("../images/intankavel.jpeg");
-  background-size: 150%;
+  background-size: 120%;
   background-repeat: no-repeat;
   background-position: center;
 }
